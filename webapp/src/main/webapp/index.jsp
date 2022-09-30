@@ -2,7 +2,7 @@
 <body>
 <h1>Welcome To Srini IT</h1>
  <h1> Here we are providing best trinings for all software technologies</h1>
- <h2> hi devops with aws session batch4 </h1>
+ <h2> hi devops with aws session batch 4 </h1>
 </body>
 <body style="color:red;">
  <div class="container">
