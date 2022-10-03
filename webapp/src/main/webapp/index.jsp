@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Welcome To Srini IT</h1>
- <h1> Here we are providing best  it trinings for all software technologies</h1>
+ <h1> Here we are providing best IT  trinings for all software technologies</h1>
  <h2> hi devops with aws session batch 4 </h1>
 </body>
 <body style="color:red;">
